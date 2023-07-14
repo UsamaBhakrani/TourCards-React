@@ -1,6 +1,9 @@
-
-const Tour = () => {
-  return <h2>tour component</h2>;
+const Tour = ({ id,image,name,info,price }) => {
+  return (
+    <div>
+      123
+    </div>
+  );
 };
 
 export default Tour;
